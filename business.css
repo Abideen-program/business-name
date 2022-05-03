@@ -637,7 +637,7 @@ a#log p{
     
     .section-four .image .image-one,
     .section-four .image .image-two{
-        width: 330px;
+        width: 100%;
     }
     
     .section-four .image .image-one{
@@ -741,7 +741,7 @@ a#log p{
     
     .section-four .image .image-one,
     .section-four .image .image-two{
-        width: 300px;
+        max-width: 100%;
     }
     
     .section-four .image .image-one{
