@@ -501,6 +501,28 @@ a#log p{
         font-size: 16px;
         margin-bottom: 20px;
     }
+
+    .footer{
+        display: block;
+        text-align: center;
+    }
+
+    .foot:nth-child(1){
+        margin-right: 0;
+    }
+    
+    .foot a p{
+        margin: 15px 0;
+    }
+    
+    .copyright{
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .footer h3{
+        font-size: 18px;
+    }
 }
 
 @media (max-width: 425px){
@@ -591,8 +613,7 @@ a#log p{
         margin: 10px 0;
     }
     
-    .icon p,
-    .faq-one p{
+    .icon p{
         font-size: 16px;
         margin: 10px 0;
     }
@@ -653,28 +674,6 @@ a#log p{
     
     .generate-form form{
         margin: 0;
-    }
-
-    .footer{
-        display: block;
-        text-align: center;
-    }
-
-    .foot:nth-child(1){
-        margin-right: 0;
-    }
-    
-    .foot a p{
-        margin: 15px 0;
-    }
-    
-    .copyright{
-        text-align: center;
-        font-size: 15px;
-    }
-
-    .footer h3{
-        font-size: 18px;
     }
 }
 
