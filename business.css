@@ -494,7 +494,12 @@ a#log p{
     #faq-two,
     #faq-three{
         display: block;
-        margin-bottom: 0;
+        margin-bottom: 0px;
+    }
+
+    .faq-one p{
+        font-size: 16px;
+        margin-bottom: 20px;
     }
 }
 
