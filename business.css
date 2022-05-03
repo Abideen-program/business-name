@@ -458,6 +458,16 @@ a#log p{
     }
 }
 
+@media (max-width: 500px){
+    .section-one form{
+        width: 100%;
+    }
+
+    .section-one input{
+        margin-right: 5px;
+    }
+}
+
 @media (max-width: 425px){
     .wrapper{
         padding: 35px;
