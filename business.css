@@ -173,10 +173,12 @@ a#log p{
 
 .section-four .image{
     display: flex;
+    width: 100%;
 }
 
 .section-four .image .images{
     display: flex;
+    width: 100%;
     margin: 0 auto;
 }
 
