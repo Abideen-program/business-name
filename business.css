@@ -485,6 +485,17 @@ a#log p{
         display: block;
         margin-bottom: 30px;
     }
+
+    .icon p{
+        margin-bottom: 20px;
+    }
+
+    #faq-one,
+    #faq-two,
+    #faq-three{
+        display: block;
+        margin-bottom: 0;
+    }
 }
 
 @media (max-width: 425px){
@@ -568,12 +579,6 @@ a#log p{
         font-weight: 400;
         margin-top: 10px;
     }
-
-    .section-three{
-        padding: 0 50px;
-        display: block;
-        margin-bottom: 30px;
-    }
     
     .icon h4,
     .faq-one h4{
@@ -621,14 +626,7 @@ a#log p{
         font-size: 24px;
         margin-bottom: 20px;
     }
-    
-    #faq-one,
-    #faq-two,
-    #faq-three{
-        display: block;
-        margin-bottom: 0;
-    }
-    
+       
     .generator{
         display: block;
     }
