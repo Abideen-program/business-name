@@ -492,7 +492,8 @@ a#log p{
     
     .section-one p{
         font-size: 16px;
-        margin: 0px 0;
+        margin: 10px auto;
+        width: 70%;
     }
     
     .section-one form,
