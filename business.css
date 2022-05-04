@@ -488,6 +488,7 @@ a#log p{
 
     .icon p{
         margin-bottom: 20px;
+        text-align: justify;
     }
 
     #faq-one,
@@ -500,6 +501,7 @@ a#log p{
     .faq-one p{
         font-size: 16px;
         margin-bottom: 20px;
+        text-align: justify;
     }
 
     .footer{
